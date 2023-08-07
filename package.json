@@ -45,7 +45,7 @@
                         "destination": {
                             "url": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_PURCHASEORDER_PROCESS_SRV",
                             "headers": {
-                                "apiKey": "BPIXK0dwCBSe8xrZzvfuWHiSDGHcYVyD"
+                                "apiKey": "MxEGCXpwxc1VV9uIGPA6ND8KdgpT9IGn"
                             }
                         }
                     },
